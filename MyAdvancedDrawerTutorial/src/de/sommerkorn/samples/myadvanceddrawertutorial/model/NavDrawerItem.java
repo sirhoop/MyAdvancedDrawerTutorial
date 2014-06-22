@@ -1,5 +1,10 @@
 package de.sommerkorn.samples.myadvanceddrawertutorial.model;
 
+/**
+ * Kommentar für das NavDrawerItem-Modell.
+ * @author alex
+ *
+ */
 public class NavDrawerItem {
     
     private String title;
