@@ -18,6 +18,11 @@ import android.widget.ListView;
 import de.sommerkorn.samples.myadvanceddrawertutorial.adapter.NavDrawerListAdapter;
 import de.sommerkorn.samples.myadvanceddrawertutorial.model.NavDrawerItem;
 
+/**
+ * MainActivity for the navigation drawer example.
+ * @author alex
+ *
+ */
 public class MainActivity extends Activity {
     private DrawerLayout mDrawerLayout;
     private ListView mDrawerList;
